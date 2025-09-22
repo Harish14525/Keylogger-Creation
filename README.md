@@ -1,10 +1,8 @@
 # Keylogger Project - README
 
-project:
-
-  **name**: Educational Keylogger
+**Project Name**: Keylogger Creation 
   
-  **description**: Python-based keylogger for educational
+  **Description**: Python-based keylogger for educational
   
   **Author:** Harish Babu G  
   
