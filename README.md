@@ -18,35 +18,34 @@ project:
   purpose: Demonstrate how attackers capture keystrokes and help security professionals understand detection/prevention
   
   # objectives:
-  
-    - Monitor and log keyboard activity
-    - Capture keystrokes with timestamps
-    - Demonstrate keylogger functionality
-    - Provide insights into detection techniques
+   - Monitor and log keyboard activity
+   - Capture keystrokes with timestamps
+   - Demonstrate keylogger functionality
+   - Provide insights into detection techniques
 
 ## technical:
 
   # dependencies:
    
-    - Python 3.6+
-    - pynput library
-    - Linux (Kali Linux tested)
+   - Python 3.6+
+   - pynput library
+   - Linux (Kali Linux tested)
     
-  ## installation: |
+  ## installation: 
   
-    # Clone the repository
+   # Clone the repository
     git clone https://github.com/your-username/educational-keylogger.git
     cd educational-keylogger
 
-    # Install dependencies
+   # Install dependencies
     pip3 install -r requirements.txt
 
   ## usage: |
   
-    # Basic usage
+   # Basic usage
     python3 keylogger.py
 
-    # Advanced usage
+   # Advanced usage
     python3 keylogger.py --logfile custom_log.log --buffer 50
 
   command_line_options:
