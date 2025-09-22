@@ -32,18 +32,18 @@
   
    - Clone the repository
      
-    `git clone https://github.com/your-username/educational-keylogger.git
-    cd educational-keylogger`
+    git clone https://github.com/your-username/educational-keylogger.git
+    cd educational-keylogger
 
    - Install dependencies
      
-    `pip3 install -r requirements.txt`
+    pip3 install -r requirements.txt
 
   # Usage: 
   
    - Basic usage
      
-    `python3 keylogger.py`
+    python3 keylogger.py
 
  # Project_structure:
 
@@ -59,13 +59,13 @@
    - File-based storage
    - ESC key to stop execution
  
-# Educational_objectives:
+# Educational Objectives:
   - Understanding Attack Vectors
   - Detection Techniques
   - Prevention Strategies
   - Forensic Analysis
 
-# Defensive_considerations:
+# Defensive Considerations:
   - Antivirus detection patterns
   - Behavioral analysis indicators
   - System monitoring techniques
@@ -73,8 +73,8 @@
 
 # Sample_output:
 
-Keylogger started at: 2025-09-22 02:39:23
-==================================================
+ - Keylogger started at: 2025-09-22 02:39:23
+ ==================================================
 
 [2025-09-22 02:39:33] Pressed: h
 
