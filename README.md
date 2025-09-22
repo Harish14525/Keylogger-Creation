@@ -32,7 +32,7 @@
  
     python3 keylogger.py
 
- # Project_structure:
+ # Project Structure:
 
   - keylogger.py: Main keylogger implementation
   - keystrokes.log: Sample captured logs
