@@ -15,10 +15,10 @@ project:
 
 # overview:
 
-  purpose: "Demonstrate how attackers capture keystrokes and help security professionals understand detection/prevention"
+  purpose: Demonstrate how attackers capture keystrokes and help security professionals understand detection/prevention
   
   # objectives:
-  `
+  
     - Monitor and log keyboard activity
     - Capture keystrokes with timestamps
     - Demonstrate keylogger functionality
@@ -27,7 +27,7 @@ project:
 ## technical:
 
   # dependencies:
-   `
+   
     - Python 3.6+
     - pynput library
     - Linux (Kali Linux tested)
@@ -41,7 +41,8 @@ project:
     # Install dependencies
     pip3 install -r requirements.txt
 
-  usage: |
+  ## usage: |
+  
     # Basic usage
     python3 keylogger.py
 
