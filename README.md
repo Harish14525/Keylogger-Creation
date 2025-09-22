@@ -10,7 +10,7 @@ project:
   
   **Date:** 2025-09-22
   
-disclaimer: This tool is for educational purposes only. Use only on systems you own or have explicit written permission to test.
+**Disclaimer:** This tool is for educational purposes only. Use only on systems you own or have explicit written permission to test.
     Unauthorized use of keyloggers is illegal and unethical.
 
 # overview:
