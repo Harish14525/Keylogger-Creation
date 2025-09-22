@@ -1,27 +1,39 @@
 # Keylogger Project - README
+
 project:
+
   **name**: Educational Keylogger
+  
   **description**: Python-based keylogger for educational
+  
   **Author:** Harish Babu G  
+  
   **Date:** 2025-09-22
-  disclaimer: |
-    ⚠️ This tool is for educational purposes only. Use only on systems you own or have explicit written permission to test.
+  
+  # disclaimer: This tool is for educational purposes only. Use only on systems you own or have explicit written permission to test.
     Unauthorized use of keyloggers is illegal and unethical.
 
-overview:
-  purpose: "Demonstrate how attackers capture keystrokes and help security professionals understand detection/prevention"
-  objectives:
-    - "Monitor and log keyboard activity"
-    - "Capture keystrokes with timestamps"
-    - "Demonstrate keylogger functionality"
-    - "Provide insights into detection techniques"
+# overview:
 
-technical:
-  dependencies:
-    - "Python 3.6+"
-    - "pynput library"
-    - "Linux (Kali Linux tested)"
-  installation: |
+  purpose: "Demonstrate how attackers capture keystrokes and help security professionals understand detection/prevention"
+  
+  # objectives:
+  `
+    - Monitor and log keyboard activity
+    - Capture keystrokes with timestamps
+    - Demonstrate keylogger functionality
+    - Provide insights into detection techniques
+
+## technical:
+
+  # dependencies:
+   `
+    - Python 3.6+
+    - pynput library
+    - Linux (Kali Linux tested)
+    
+  ## installation: |
+  
     # Clone the repository
     git clone https://github.com/your-username/educational-keylogger.git
     cd educational-keylogger
