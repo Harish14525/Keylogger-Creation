@@ -38,7 +38,6 @@
   - keystrokes.log: Sample captured logs
   - Screenshots: Screenshots captured
   - README.md: Documentation
-  - REPORT.md: Technical report
 
 # Features:
    - Real-time keystroke capture
