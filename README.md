@@ -28,21 +28,8 @@
    - pynput library
    - Linux (Kali Linux tested)
     
-  # Installation: 
-  
-   - Clone the repository
-     
-    git clone https://github.com/your-username/educational-keylogger.git
-    cd educational-keylogger
-
-   - Install dependencies
-     
-    pip3 install -r requirements.txt
-
   # Usage: 
-  
-   - Basic usage
-     
+ 
     python3 keylogger.py
 
  # Project_structure:
@@ -154,6 +141,6 @@ Keylogger started at: 2025-09-22 02:39:23
    - Address ethical considerations
    - Follow security best practices
 
-# license: Educational Use License
 
-final_note: Always obtain proper authorization before testing any security tool
+license: Educational Use License
+
