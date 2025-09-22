@@ -128,19 +128,19 @@ Keylogger started at: 2025-09-22 02:39:23
 [2025-09-22 02:39:50] Pressed: Key.esc
 
 
-# detection_methods:
+# Detection Methods:
   - Antivirus software scanning
   - Process monitoring tools
   - Network traffic analysis
   - Behavioral analysis systems
   - User account control alerts
 
-# contributing:
+# Contributing:
    - Maintain educational focus
    - Include proper documentation
    - Address ethical considerations
    - Follow security best practices
 
 
-license: Educational Use License
+**License:** Educational Use License
 
